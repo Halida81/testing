@@ -30,6 +30,7 @@ const expense = [
 
   return (
     <div className="App">
+      <h1>this is h1</h1>
      
     <Expenses expense={expense}/>
     
