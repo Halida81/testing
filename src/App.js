@@ -24,7 +24,8 @@ const expense = [
     id:'e3',
     title: 'Mouse',
     amount: 11,
-    date: new Date(2020, 2, 26)
+    date: new Date(2020, 2, 26),
+    num:122
   },
 ]
 
